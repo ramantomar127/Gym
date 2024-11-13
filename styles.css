@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.container {
+    margin: 50px;
+}
+
+.container h2 {
+    color: #008CBA;
+}
+
+.container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.container li {
+    margin-bottom: 10px;
+}
+
+.container a {
+    color: #008CBA;
+    text-decoration: none;
+}
+
+.container a:hover {
+    text-decoration: underline;
+}
